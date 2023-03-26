@@ -1,0 +1,1 @@
+https://forums.docker.com/t/solved-docker-failed-to-start-docker-desktop-for-windows/106976/2
